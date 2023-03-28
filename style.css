@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.header{
+    background: white;
+}
+
+
+.logo img{
+   width: 15%;
+  
+   
+}
+
+.philip-content{
+    background: #cbcbd2;
+}
+.philip{
+    margin-top: 150px;
+}
+.philip a{
+    text-decoration: none;
+    background: #8490ff;
+    display: inline-block;
+    padding: 6px 16px;
+    font-size: 20px;
+     border-radius: 5px;
+     color: #fff;
+     font-weight: 600;
+
+}
+.card {
+    width: 100%;
+}
+.details a{
+text-decoration: none;
+background: #8490ff;
+display: inline-block;
+padding: 6px 16px;
+font-size: 20px;
+border-radius: 5px;
+color: #fff;
+font-weight: 600;
+}
+.moniyal{
+    color: #fff;
+    padding: 90px 0px;
+    background: #8490ff;
+    text-align: center;
+}
+.footer{
+    background: #f9f9f9;
+}
+.econo{
+    background: #fff;
+}
+.econo h3{
+    background: #f9f9f9;
+    display: inline-block;
+    padding: 38px 50px ;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+.econo p{
+    color: #a4a4a4;
+    font-size: 20px;
+}
+.econo a{
+    text-decoration: none;
+    display: inline-block;
+    padding: 6px 16px;
+    background: #ffff;
+   font-size: 20px;
+   color: #7488e3;
+   border-radius: 5px;
+   font-weight: 600;
+   border: 3px solid #91a1e8;
+    margin: 40px 0px;
+}
+.jason-item{
+    margin-top: 145px;
+    text-align: center;
+}
+.jason-item img{
+    margin-top: -35px;
+    margin-left: 15px;
+}
+.jason-item a{
+    text-decoration: none;
+    color: #000;
+    display: inline-block;
+    background: #f8f9fa;
+    padding: 7px 15px;
+    font-weight: 400;
+}
+.form-content{
+    background: #f9f9f9;
+}
+.link-form a{
+text-decoration: none;
+background: #17a2b8;
+display: inline-block;
+padding: 6px 16px;
+font-size: 20px;
+border-radius: 5px;
+color: #fff;
+font-weight: 600;
+}
+button{
+  border: none;
+  display: block;
+  margin: auto;
+  margin-top: 15px;
+
+}
+.touch {
+    margin-top: 95px;
+    margin-left: 20px;
+}
